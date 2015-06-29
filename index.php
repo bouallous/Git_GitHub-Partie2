@@ -1,3 +1,3 @@
 <?php
-	echo "page de test sur Github"
+	echo "page de test sur Github";
 ?>
